@@ -57,7 +57,7 @@ Follow these instructions to get the project up and running on your local machin
 ### **2\. Installation & Setup**
 
 1. **Clone the repository:**  
-   git clone https://github.com/your-username/flask-todo-app.git  
+   git clone https://github.com/AryanPatel03/To-Do-App.git  
    cd flask-todo-app
 
 2. **Create and activate a virtual environment:**  
