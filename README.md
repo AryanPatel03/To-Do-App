@@ -22,14 +22,6 @@ AJAX-driven UI updates, and a premium, SaaS-like design with glassmorphism, dark
 * **Responsive Design:** Looks and works great on mobile, tablet, and desktop.  
 * **Theme Persistence:** Your dark/light mode preference is saved in localStorage.
 
-## **📸 Screenshots**
-
-*(You can add your own screenshots to a screenshots/ directory and link them here.)*
-
-| Desktop (Dark Mode) | Mobile (Light Mode) |
-| :---- | :---- |
-| \`\` | \[Image of mobile view\] |
-| \`screenshots/desktop.png\` | \`screenshots/mobile.png\` |
 
 ## **🛠️ Technology Stack**
 
